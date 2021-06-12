@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_on_docker_deployed_to_azure",
+  "version": "1.0.0",
+  "description": "eLearning activity: deploy a Node.js backend docker container to Azure",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prateslj/nodejs_on_docker_deployed_to_azure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prateslj/nodejs_on_docker_deployed_to_azure/issues"
+  },
+  "homepage": "https://github.com/Prateslj/nodejs_on_docker_deployed_to_azure#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
