@@ -1,5 +1,6 @@
 const express = require('express')
 const app = express()
+// Sets the port
 const port = 3000
 
 app.get('/', (req, res) => {
